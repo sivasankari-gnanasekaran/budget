@@ -1,0 +1,31 @@
+0:ALL
+1:Rent/Mortgage
+2:Electric
+3:Water/Sewer
+4:Gas/Heating
+5:Telephone
+6:Cable TV
+7:Household/Repairs
+8:Student Loan
+9:Credit Cards
+10:Other Loan Payments
+11:Health Insurance
+12:Car/Home Insurance
+13:Life Insurance
+14:Child Care
+15:Groceries
+16:Restaurant Meals
+17:Personal Care
+18:Hair/Nail Care
+19:Clothing/Shoes
+20:Doctors, Dentists, etc.
+21:Prescriptions
+22:Laundry/Dry Clean
+23:Recreation/Travel
+24:Gas/Auto Expenses
+25:Bus, Taxi, Train, etc.
+26:Parking
+27:Gifts/Charity
+28:salary
+29:FD/RD interest
+30:lottery
